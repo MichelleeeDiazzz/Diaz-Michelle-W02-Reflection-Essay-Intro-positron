@@ -1,0 +1,64 @@
+---
+title: "W02-Reflection Essay-Intro-positron"
+author: "Michelle Diaz"
+date: "2026-09-10"
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Positron vs. RStudio
+
+> Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?
+
+Positron is built specifically for data science, which makes it a very useful tool. It makes working in R a little easier to gauge, and the built-in AI assistant is especially beneficial for new users trying to grasp the ins and outs of R. The search bar is great for quickly finding commands and files, and I like that Positron supports extensions you can use for many different tasks. Overall, I think Positron would be really helpful because it makes R feel a bit less overwhelming.
+
+# Using AI Inside Positron
+
+## The various ways to use AI in Positron
+
+> Describe the various ways you can use AI inside Positron. Some are free while others are not.
+
+What stands out most is how deeply the AI is integrated into your R environment. Unlike outside AI tools — where you'd have to screenshot your screen or explain what you're seeing, the AI in Positron can directly:
+
+- See the scripts you have open
+- See the variables stored in memory
+- See the plots and tables you've created
+- See the code you've run and the output it produced
+
+Because it can see your environment, the interaction feels seamless, you get accessible help without having to outsource to another AI system. The specific AI features include:
+
+- An **inline code assistant** that suggests solutions for the code you're working on
+- **Databot's WEAR loop**, an AI cycle for exploring data: it **W**rites R or Python code, **E**xecutes it immediately, **A**nalyzes the results, and **R**egroups with suggestions — then waits for your next instruction. Because it works through actual code, the process stays auditable.
+- The **Positron Assistant**, mainly helpful for debugging and improving outputs like plots
+
+A few things I especially liked: in the chat you can include the file you're working on plus any datasets in your directory; it can read errors that pop up and suggest a solution; and you can highlight part of your code, hit **Cmd + I**, and have it make real-time edits.
+
+## AI tools I installed and found beneficial
+
+> Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?
+
+So far I've installed GitHub Copilot and have access to the built-in Positron Assistant. I haven't fully utilized Copilot yet, since I haven't run code with it, but I can already see it being useful when errors or debugging come up, which is where I tend to get stuck most often.
+
+## GitHub Copilot: helpful or distracting?
+
+![GitHub Copilot education account acceptance](Screenshot 2026-09-10 at 2.45.22 PM.png)
+
+> I strongly recommend using GitHub Copilot, which is free if you apply for an education account. Apply for it, take a screenshot showing you were accepted, play with it, and tell me whether you find it helpful or distracting.
+
+I actually used GitHub Copilot to help me install GitHub correctly into Positron, since I missed a step in the video. As someone who struggles with R, I can see this being a great tool, almost like a tutor that helps me refine coding skills I may not have fully retained from past courses.
+
+The main risk I see is leaning on it too heavily. But I think the key is understanding that it's a tool, like a tutor or editor, and not something that should do all your coding for you. Used that way, I think it will be more helpful than distracting, especially for building skills I want to strengthen.
+
+# Appendix
+
+**GitHub Repository:** [your repo URL](your-repo-url)
+
+**GitHub Pages:** [your pages URL](your-pages-url)
